@@ -1,3 +1,6 @@
+[![HitCount](http://hits.dwyl.io/mcsmonk/dsopy-lecroy.svg)](http://hits.dwyl.io/mcsmonk/dsopy-lecroy)
+
+
 simple python3 module for getting an waveform from LeCroy DSO
 
 
