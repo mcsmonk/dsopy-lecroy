@@ -5,14 +5,27 @@ simple python3 module for getting an waveform from LeCroy DSO
 
 
 
-Requirement:
- - win32com
- - numpy
- - matplotlib
+## Common requirement:
+
+ - anaconda 64-bit
+
+    - numpy
+
+      ```
+      pip install numpy
+      ```
+
+    - matplotlib
+
+      ```
+      pip install matplotlib
+      ```
+
+      
 
 
 
-version 1 (socket communication)
+# version 1 (socket communication)
 
 - lecroysocket.py
 - test_lecroysocket.py
@@ -22,10 +35,22 @@ version 1 (socket communication)
 
 
 
-version 2 (activedso com)
+# version 2 (activedso com)
 
 - lecroywin32com.py
+
 - test_lecroywin32com.py
 
+- Common requirement:
+
+  - anaconda 64-bit
+
+    - win32com
+
+      ```
+      conda install -c anaconda pywin32
+      ```
+
 - reference
+  
   - LeCroy documents
