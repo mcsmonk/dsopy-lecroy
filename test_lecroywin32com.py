@@ -19,7 +19,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from lecroywin32com import LeCroyScope
 
-ip = '163.152.90.101'
+ip = '127.0.0.1' # your dso ip address
 
 dso = LeCroyScope(ip)
 dso.clear()

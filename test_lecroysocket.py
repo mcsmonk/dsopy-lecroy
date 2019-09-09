@@ -29,7 +29,7 @@
 import matplotlib.pyplot as plt
 from lecroysocket import LeCroyScope
 
-ip = '163.152.90.101'
+ip = '127.0.0.1' # your dso ip address
 
 dso = LeCroyScope(ip, timeout=5)
 dso.clear()
