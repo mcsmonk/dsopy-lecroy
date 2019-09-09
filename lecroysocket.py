@@ -1,9 +1,4 @@
-#  
-# dsopy-lecroy
-# Copyright (C) 2019 Sunghyun Jin
 # 
-# based on
-#  
 # LeCrunch2 
 # Copyright (C) 2014 Benjamin Land
 #
